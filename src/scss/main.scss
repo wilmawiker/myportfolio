@@ -77,6 +77,16 @@ body {
         h3 {
           color: #464546;
         }
+        p {
+          a {
+            text-decoration: none;
+            color: #464546;
+
+            &:hover {
+              color: white;
+            }
+          }
+        }
       }
     }
   }
