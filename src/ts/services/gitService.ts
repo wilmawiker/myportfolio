@@ -16,5 +16,5 @@ import axios from "axios";
 export async function getData(): Promise<IRepo[]> {
     let response = await axios.get<IGitResponse>("https://api.github.com/users/wilmawiker/repos");
     console.log(response.data)
-    return response.data.Data;
+    return response.data.data;
 } 
