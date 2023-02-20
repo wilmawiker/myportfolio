@@ -81,6 +81,17 @@ body {
 				h3 {
 					color: #464546;
 				}
+				.download-link {
+					text-decoration: none;
+					color: #464546;
+					background-color: #cab29f;
+					padding: 5px;
+					border-radius: 5px;
+
+					&:hover {
+						color: white;
+					}
+				}
 			}
 			.divider {
 				border-top: 2px solid #464546;
