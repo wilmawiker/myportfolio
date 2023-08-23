@@ -20,7 +20,7 @@ export let repos: Repo[] = [
   new Repo(
     3,
     "Group assignment",
-    `The last challenge of the 'Introduction to JavaScript' course, was a group assigment where we made a webshop. This project were made together with Angelica Reuterswärd and Barbora Miklosovicova`,
+    `The last challenge of the 'Introduction to JavaScript' course, was a group assigment where we made a webshop. This project were made together with Angelica Reuterswärd and Barbora Miklosovicova.`,
     "https://dl.dropboxusercontent.com/s/b7xmjy963rk6ton/dukafint.png?dl=0",
     "https://dl.dropboxusercontent.com/s/o9z827l78s4qvhn/dukafintmo.png?dl=0",
     "https://github.com/Ayngie/assignment-typescript-Webshop-DukafintAB"
@@ -28,7 +28,7 @@ export let repos: Repo[] = [
   new Repo(
     4,
     "Tic Tac Toe",
-    `Assignment in the course 'JavaScript Extended', a tic tac toe game made with Vue`,
+    `Assignment in the course 'JavaScript Extended', a tic tac toe game made with Vue.`,
     "https://dl.dropboxusercontent.com/scl/fi/foivctuvwvoy0bhty5tjf/tictactoe.png?rlkey=yr3ebfcm6a9cxyc4dzv7gy641&dl=0",
     "",
     "https://github.com/wilmawiker/tictactoe-vue-assignment"
