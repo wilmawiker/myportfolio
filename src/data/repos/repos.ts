@@ -36,7 +36,7 @@ export let repos: Repo[] = [
   new Repo(
     5,
     "The Zoo",
-    `Another assignment in the course 'JavaScript Extended', made with React. A web page where you can take care of the animal at the zoo. Animals will be hungry if they have not been fed within the last 4 hours. In that case they will show up with a red card, when fed they will have a green card.`,
+    `Another assignment in the course 'JavaScript Extended', made with React. A web page where you can take care of the animals at the zoo. Animals will be hungry if they have not been fed within the last 4 hours. In that case they will show up with a red card, when fed they will have a green card.`,
     "https://dl.dropboxusercontent.com/scl/fi/4gtqgcyaadx9t593t5gdl/thezoo.png?rlkey=id9wocbtek9tme1eazx2ojrdv&dl=0",
     "",
     "https://github.com/wilmawiker/thezoo-react-assignment"
